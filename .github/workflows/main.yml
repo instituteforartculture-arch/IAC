@@ -1,5 +1,0 @@
-            - name: Enable RDP
-  # You may pin to the exact commit or the version.
-  # uses: gbraad-actions/enable-remote-desktop@373AfDAEjhh1BOpuFTd5RvRPknb_6E9PDruoUaGLepTcj3wjF
-  uses: gbraad-actions/enable-remote-desktop@v1
-          
